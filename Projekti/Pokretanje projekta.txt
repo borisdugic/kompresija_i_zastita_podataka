@@ -3,7 +3,7 @@ Kao prednost toga, kod sam pisao u Jypiter Source File (.ipynb)
 To mi je omogucilo da se kod moze pokreni iz vise delova, svaki blok kod sadrzi jednu celinu koja se moze testira zasebno.
 Iznad svakog bloka koda, nalazi se kratak izvestaj sta je radjeno i koji su procesi tj. koraci primenjeni kako bi se doslo do resenja, pa sam izvestaj pisao na taj nacin.
 
-Za pokretanje najbolje je koristi Visual Studio Code, pokretanje jednog bloka imacete u prilogu na slici.
+Za pokretanje najbolje je koristi Visual Studio Code, pokrenuti PROJEKAT 1 (PROJEKAT 2), pokretanje jednog bloka imacete u prilogu na slici.
 
 Srdacan pozdrav
 Boris Dugic 58/2018
